@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-demo-js",
+  "version": "1.0.0",
+  "description": "Small Hello World demo in Node.js",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
